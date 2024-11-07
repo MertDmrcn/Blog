@@ -1,0 +1,9 @@
+.navbar{
+    opacity: 0.8;
+    border-bottom: 1px solid #fff;
+    
+}
+.nav-link:hover {
+    color: #FFD700; /* Sarı renk */
+    text-decoration: underline; /* Altını çizer */
+}
